@@ -1,0 +1,414 @@
+.fon{
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%;
+}
+
+.osnova{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 5320px;
+}
+.levo{
+   /* border: 1px solid red;*/
+    margin-top: 20px;
+    height: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.krt1{
+    float: left;
+    height: 100%;
+}
+.poisk{
+    float: left;
+    width: 40%;
+    height: 60%;
+    margin-top: 10px; 
+    margin-left: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+   /* margin-left: 15%;*/
+    background-color: rgb(238, 238, 238);
+    border: 1px solid rgb(165, 165, 165);
+}
+.shapka{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: #00a6e0;
+}
+.slv2{
+    float: left;
+    margin-top: 18px;
+    margin-left: 16%;
+    margin-right: 4%;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: white;
+}
+.slv1{
+    margin-top: 9px;
+    margin-left: 10px;
+    color: rgba(0, 0, 0, 0.808);
+}
+.knpka{
+    font-family: 'Nunito Sans', sans-serif;
+    float: right;
+    width: 100px;
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 2%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid blue;
+    border-radius: 3px;
+    text-align: center;
+}
+.knpka1{
+    font-family: 'Nunito Sans', sans-serif;
+    float: right;
+    width: 100px;
+    height: 40px;
+    margin-top: 8px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+    text-align: center;
+}
+.krt2{
+    float: right;
+    width: 25px;
+    margin-top: -21px;
+    margin-right: 10px;
+}
+.gl1{/*тут увеличивать размер страницы*/
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 100px;
+    height: 4900px;
+    /*border: 1px solid red;*/
+    background-color: rgba(214, 236, 255, 0.932);
+    box-shadow: 0px 0px 20px 20px rgba(214, 236, 255, 0.932);
+}
+.obibl{
+    margin-top: 110px;
+    width: 100%;
+    /*border: 1px solid green;*/
+    height: 700px;
+}
+.slv3{
+    font-size: 70px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.levo1{
+    float: left;
+    width: 60%;
+    /*border: 1px solid yellow;*/
+}
+.krt3{
+    margin-top: 20px;
+    float: right;
+    width: 39%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px 1px rgba(36, 40, 255, 0.932);
+}
+.slv4{
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.TipKnig{
+    margin-top: 50px;
+    width: 100%;
+   /* border: 1px solid green;*/
+    height: 500px;
+}
+.krt4{
+    float: left;
+    width: 39%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px 1px #68c6b4;
+}
+.slv5{
+    float: right;
+    width: 55%;
+    margin-top: 10px;
+    font-size: 60px;
+    font-family: 'Roboto Condensed', sans-serif;;
+}
+.slv6{
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.InteresK{
+    margin-top: 50px;
+    width: 100%;
+    /*border: 1px solid green;*/
+    height: 1000px;
+}
+.slv7{
+    
+    margin-top: 10px;
+    font-size: 60px;
+    font-family: 'Roboto Condensed', sans-serif;;
+}
+.knigi{
+   /* border: 1px solid yellow;*/
+    height: 600px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 100px;
+}
+.kniga1{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    margin-right: 1%;
+    margin-left: 2%;
+    float: left;
+    height: 100%;
+}
+.kart1{
+    width: 100%;
+    height: 60%;
+    /*border: 1px solid red;*/
+}
+.krt5{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 18px;
+}
+.slv8{
+    font-size:20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.knopk{
+    width: 40%;
+    height: 10%;
+    margin-left: 28%;
+    margin-top: 1%;
+    border: 1px solid black;
+    background-color: #ff8277;
+    border-radius: 20px;
+}
+.slv9{
+    font-size:30px;
+    margin-left: 14%;
+    margin-top: 5%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.slova1{
+    width: 100%;
+    /*border: 1px solid green;*/
+    height: 25%;
+}
+.novosti{
+    width: 100%;
+   /* border: 1px solid green;*/
+    margin-top: 50px;
+    height: 500px;
+}
+.novosti1{
+    width: 100%;
+    /*border: 1px solid green;*/
+    margin-top: 50px;
+    margin-top: 10px;
+    font-size: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 100px;
+}
+.news1{
+    float: left;
+    width: 33%;
+    height: 100%;
+   /* border: 1px solid yellow;*/
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.news2{
+    float: left;
+    width: 33%;
+    height: 100%;
+   /* border: 1px solid yellow;*/
+}
+.news3{
+    float: left;
+    width: 33%;
+    height: 100%;
+   /* border: 1px solid yellow;*/
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.krt6{
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.krt61{
+    width: 100%;
+    height: 100%;
+}
+.krt62{
+    width: 100%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.slv10{
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    margin-top: -100px;
+}
+.slv11{
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    margin-top: -100px;
+}
+.krt7{
+    width: 4%;
+    margin-left:1%;
+    border-radius: 50px;
+    top: 2800px;
+    position: absolute;
+}
+.krt71{
+    width: 4%;
+    margin-left:84%;
+    border-radius: 50px;
+    top: 2800px;
+    position: absolute;
+}
+.Grafik{
+    width: 100%;
+    margin-top: 150px;
+    height: 900px;
+    /*border: 1px solid green;*/
+}
+.pervSt{
+    float: left;
+    margin-top: 100px;
+    margin-left: 10%;
+    width: 30%;
+    border: 1px solid black;
+    height: 600px;
+    background-color: #dbdbdb;
+}
+.vtSt{
+    float: right;
+    margin-top: 100px;
+    margin-right: 10%;
+    width: 30%;
+    border: 1px solid black;
+    height: 600px;
+    background-color: #dbdbdb;
+}
+.slvv1{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 35px;
+}
+.slvv2{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+}
+.slv911{
+    font-size:30px;
+    margin-left: 6%;
+    margin-top: 5%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.mnknig{
+    margin-top: 100px;
+   /* border: 1px solid green;*/
+    width: 100%;
+    height: 700px;
+}
+.krt8{
+    float: left;
+    
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-top: 20px;
+    width: 30%;
+    height: 80%;
+    box-shadow: 0px 0px 30px 1px rgba(255, 121, 44, 0.932);
+}
+.ktknig{
+    float: right;
+    margin-right: 10%;
+    margin-top: 20px;
+   /* border: 1px solid yellow;*/
+    width: 40%;
+    height: 90%;
+}
+.slv41{
+    margin-top: 10px;
+    font-size: 30px;
+    margin-right: 10%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.podvl{
+    width: 100%;
+    border-color: 1px solid black;
+    background-color: #7f7f7f;
+    height: 300px
+}
+.prava{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.obibl1{
+    float: left;
+    width: 15%;
+    height: 99%;
+   /* border: 1px solid white;*/
+    margin-left: 5%;
+    margin-right: 3%;
+}
+.obibl2{
+    float: left;
+    width: 15%;
+    height: 99%;
+    /*border: 1px solid white;*/
+    margin-right: 3%;
+}
+.slv31{
+    font-size: 40px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.slvv4{
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.krt222{
+    width: 50px;
+    margin-top: 5%;
+    margin-right: 5%;
+}
